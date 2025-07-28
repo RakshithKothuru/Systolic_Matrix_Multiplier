@@ -40,7 +40,6 @@ This local communication model reduces global routing complexity and supports **
 
 ## 🔗 References
 
-- Kung, H. T., & Leiserson, C. E. (1979). *Systolic Arrays for VLSI*. [Link to paper (ACM Library)](https://dl.acm.org/doi/10.1145/800135.804419)
 - Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach*. Morgan Kaufmann.
 - [Systolic array - Wikipedia](https://en.wikipedia.org/wiki/Systolic_array)
 
