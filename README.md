@@ -33,7 +33,7 @@ This local communication model reduces global routing complexity and supports **
 
 ## ✅ Features
 
-- Fully parallel output computation
+- Spatially pipelined matrix multiplication with parellelism using 16 MAC units
 - Clocked MAC units with pipeline registers
 - Local data reuse for efficient computation
 - Clean modular design: PE → Row → Array
