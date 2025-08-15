@@ -43,8 +43,5 @@ This local communication model reduces global routing complexity and supports **
 - Hennessy, J. L., & Patterson, D. A. (2017). *Computer Architecture: A Quantitative Approach*. Morgan Kaufmann.
 - [Systolic array - Wikipedia](https://en.wikipedia.org/wiki/Systolic_array)
 
-## 📄 License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code with proper attribution.
 
 
